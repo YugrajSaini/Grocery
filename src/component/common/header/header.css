@@ -1,0 +1,161 @@
+.setImageHeightWidth{
+  width: 12rem;
+  height: 4rem
+}
+.navbarDiv{
+  margin-left: 3rem;
+}
+.ForUl{    display: flex;
+  justify-content: space-between;
+  width: -webkit-fill-available;
+  align-items: center;
+}
+
+.ForInputBox{
+  min-width: 54%;
+}
+.searchIcon {
+  color: #fff !important;
+  background-color:#0B773C !important;
+  border:1px solid #0B773C !important;
+  border-radius: 0px 4.22778px 4.22778px 0px !important;
+
+}
+
+.ForInputBox form input{
+  border-radius: 5.28472px 0px 0px 5.28472px;
+  height: 3rem;
+}
+
+.address-text{
+  padding-left: 9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+header .logo {
+  display: flex;
+  align-items: center;
+}
+
+header .logo .logo-img-style {
+  height: 54px;
+  width: 80px;
+}
+
+header .logo .logo-name-style {
+  height: 25px;
+  width: 142px;
+}
+/* ========================================================== */
+/* header .address {
+  display: flex;
+  align-items: center;
+}
+
+header .address .address-icon {
+  width: 22px;
+  height: 32px;
+}
+header .address .address-text {
+  margin-left: 10px;
+  font-size: var(--small-text);
+}
+
+header .address .address-text p {
+  color: var(--black);
+}
+
+header .address .address-text span {
+  font-weight: var(--wieght-text);
+} */
+
+/* ============================================================= */
+/* header .search-style {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.search-style .search-input {
+  width: 600px;
+}
+
+.search-style .search-input input[type="text"] {
+  width: 100%;
+  border-radius: 5px;
+  border: 2px solid var(--white);
+  padding: 10px 58px 10px 10px;
+}
+
+.search-style .search-input input:focus {
+  outline: none;
+}
+
+.search-style .search-icon {
+  position: absolute;
+  right: 0px;
+}
+
+.search-style .search-icon button {
+  background-color: #0b773c;
+  color: white;
+  border: none;
+  border-radius: 0px 5px 5px 0px;
+  font-size: 18px;
+  padding: 10px 18px;
+} */
+/* ======================================================== */
+/* .accout-style {
+  display: flex;
+  align-items: center;
+}
+
+.accout-style .user-account-style {
+  display: flex;
+  align-items: center;
+  color: var(--black);
+  font-size: var(--medium-text);
+}
+
+.accout-style .user-account-style i {
+  margin-right: 10px;
+  font-size: 24px;
+} */
+/* ============================================= */
+
+/* .bucket-style {
+  display: flex;
+  align-items: center;
+}
+
+.bucket-style .user-bucket-style {
+  display: flex;
+  align-items: center;
+  color: var(--black);
+  font-size: var(--medium-text);
+}
+
+.bucket-style .user-bucket-style i {
+  margin-right: 10px;
+  font-size: 24px;
+}  */

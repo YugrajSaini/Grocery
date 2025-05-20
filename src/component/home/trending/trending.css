@@ -1,0 +1,114 @@
+
+.ButtonDiv{
+   display: flex;
+   justify-content: space-between;
+   width: 5rem !important;
+}
+.cssForButtons{
+   background: white;
+   /* border-color: "#F28505 !important";    */
+   width: 28px;
+   height: 29px;
+   border: 2px solid #F28505;
+}
+
+
+
+
+
+.ForSlider button{
+   background: tomato;
+   color: teal;
+   margin: 2rem;
+}
+.ForSlider .slick-list{
+margin-left: 2rem;
+
+}
+
+.Card{
+   height: 11rem;
+   background-color:#FFFFFF;
+   width: 12rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   margin-top: 1rem;
+}
+
+.CardImg{
+   display: flex;
+   height: 147.97px;
+   border: 0px solid white;
+   width:  147.97px;
+  
+}
+
+.CardImg img {
+   height: 100%;
+   width: 100%;
+   /* border: 2px solid pink;*/ 
+   border-radius: 50%;
+}
+
+.Card p{
+   font-size:16px;
+}
+
+
+/* .MainDivOfTrending{
+   
+    padding: 0px 55px 30px 55px;;
+    margin-top: 11rem;
+    font-size: 22px;
+}
+.MainDivOfTrending div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.MainDivOfTrending p{
+    font-family: 'Poppins', sans-serif;
+}
+
+.ForPaginationButton{
+    display: flex;
+    justify-content: space-between;
+    width: 5.5rem;
+ }
+ .ForPaginationButton button{
+    height: 2rem;
+    width: 2rem;
+    align-items: center;
+    display: flex;
+ }
+ .Card{
+    height: 11rem;
+    background-color:#FFFFFF;
+    width: 12rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 1rem;
+ }
+
+ .CardImg{
+    display: flex;
+    height: 147.97px;
+    border: 0px solid white;
+    width:  147.97px;
+   
+ }
+
+.CardImg img {
+    height: 100%;
+    width: 100%;
+    /* border: 2px solid pink; 
+    border-radius: 50%;
+ }
+
+ .Card p{
+    font-size:16px;
+ } */

@@ -1,0 +1,70 @@
+:root {
+  --black: #393939;
+  --white: #acacac;
+  --blue: #0662cd;
+  --green: #5fa03c;
+  --orange: #f28505;
+  --extra-small: 14px;
+  --small-text: 14px;
+  --medium-text: 18px;
+  --large-text: 22px;
+  --extra-large-text: 26px;
+  --wieght-text: 600;
+  --body-font-family: var(--bs-font-sans-serif);
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: var(--body-font-family);
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+p {
+  margin: 0px !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0px;
+}
+img {
+  height: 100%;
+  width: 100%;
+}
+
+.shopNow{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 7.92708px 15.8542px;
+
+position: absolute;
+width: 133.09px;
+height: 39.85px;
+left: 302px;
+border: none;
+color: white;
+top: 457px;
+
+background: #F28505;
+box-shadow: 2.11389px 2.11389px 5.28472px rgba(245, 175, 17, 0.26);
+border-radius: 3.17083px;
+
+}
